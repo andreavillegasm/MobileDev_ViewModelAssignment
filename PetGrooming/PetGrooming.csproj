@@ -172,6 +172,17 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Wireframes\CreatePet.png" />
+    <Content Include="Wireframes\CreateSpecies.png" />
+    <Content Include="Wireframes\DeletePet.png" />
+    <Content Include="Wireframes\DeleteSpecies.png" />
+    <Content Include="Wireframes\EditPet.png" />
+    <Content Include="Wireframes\EditSpecies.png" />
+    <Content Include="Wireframes\HomePage.png" />
+    <Content Include="Wireframes\ListPets.png" />
+    <Content Include="Wireframes\ListSpecies.png" />
+    <Content Include="Wireframes\ViewPet.png" />
+    <Content Include="Wireframes\ViewSpecies.png" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -205,7 +216,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\Species\" />
-    <Folder Include="Wireframes\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />

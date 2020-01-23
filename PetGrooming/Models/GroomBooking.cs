@@ -24,5 +24,13 @@ namespace PetGrooming.Models
                 - A list of GroomServices
                 
         */
+        [Key]
+        public string BookingID { get; set; }
+        public DateTime Date { get; set; }
+        public DateTime Time { get; set; }
+        public float Price { get; set; }
+
+        //References Here
+
     }
 }
